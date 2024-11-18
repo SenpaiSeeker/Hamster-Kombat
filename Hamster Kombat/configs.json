@@ -1,1 +1,1 @@
-{ "limit": 1000, "upgrade": true, "maxPrice": 500, "countdown": 3600 }
+{ "limit": 1000, "upgrade": true, "maxPrice": 1000, "countdown": 3600 }
